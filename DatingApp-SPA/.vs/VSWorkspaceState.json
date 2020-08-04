@@ -5,12 +5,12 @@
     "\\src",
     "\\src\\app",
     "\\src\\app\\members",
-    "\\src\\app\\members\\member-detail",
+    "\\src\\app\\members\\member-edit",
     "\\src\\app\\nav",
-    "\\src\\app\\register",
+    "\\src\\app\\_guards",
     "\\src\\app\\_resolvers",
     "\\src\\app\\_services"
   ],
-  "SelectedNode": "\\src\\app\\app.module.ts",
+  "SelectedNode": "\\src\\app\\members\\member-edit\\member-edit.component.ts",
   "PreviewInSolutionExplorer": false
 }
