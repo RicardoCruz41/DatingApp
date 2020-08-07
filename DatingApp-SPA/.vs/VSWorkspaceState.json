@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\e2e\\src",
     "\\src",
     "\\src\\app",
     "\\src\\app\\members",
     "\\src\\app\\members\\member-edit",
+    "\\src\\app\\members\\photo-editor",
     "\\src\\app\\nav",
     "\\src\\app\\_guards",
-    "\\src\\app\\_resolvers",
-    "\\src\\app\\_services"
+    "\\src\\app\\_services",
+    "\\src\\assets"
   ],
-  "SelectedNode": "\\src\\app\\members\\member-edit\\member-edit.component.ts",
+  "SelectedNode": "\\src\\app\\members\\photo-editor\\photo-editor.component.ts",
   "PreviewInSolutionExplorer": false
 }
