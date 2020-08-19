@@ -4,13 +4,13 @@
     "\\src",
     "\\src\\app",
     "\\src\\app\\members",
-    "\\src\\app\\members\\photo-editor",
-    "\\src\\app\\nav",
-    "\\src\\app\\register",
+    "\\src\\app\\members\\member-list",
     "\\src\\app\\_guards",
+    "\\src\\app\\_models",
+    "\\src\\app\\_resolvers",
     "\\src\\app\\_services",
     "\\src\\assets"
   ],
-  "SelectedNode": "\\src\\app\\app.module.ts",
+  "SelectedNode": "\\src\\app\\_services\\user.service.ts",
   "PreviewInSolutionExplorer": false
 }
